@@ -8,4 +8,4 @@ elif Age >= 18 and 15000 <= Monthly_income <= 50000:
     print ("Eligible for savings + salary account.")
 elif Age >= 18 and Monthly_income > 50000:
     print ("Eligible for premium account.")
-#This is the eg of creating git and databricks code that bank account eligible check code.
+#This is the eg of creating git and databricks code that bank account eligible check code
